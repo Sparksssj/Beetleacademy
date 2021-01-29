@@ -1,0 +1,35 @@
+[
+    {
+        "Text_Blanked": "Exams have clear __ __ __ __ __ __ __ __ __ __ . __ __ __ __ __ __ __ __ __ __  can often __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ . __ __ __ __ __ __ __ __ , some __ __ __ __ __ __ __ __  __ __ __ __ __ __ __ __ __ __ __ __ __ __  simply because of __ __ __ __ . Some teachers and __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __  that__ __ __ __ __ __ __ __ __ __ , thus __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ . ",
+        "Blanks": 9,
+        "Correctans": [
+            "drawbacks",
+            "Test-wise candidates",
+            "perform well on exams without having good underlying knowledge or skills",
+            "On the other hand",
+            "test-takers perform poorly in exams",
+            "anxiety",
+            "learners focus only on those aspects of the curriculum",
+            "are likely to be tested",
+            "narrowing the educational experience for all"
+        ],
+        "Origtext": "Exams have clear drawbacks. Test-wise candidates can often perform well on exams without having good underlying knowledge or skills. On the other hand, some test-takers perform poorly in exams simply because of anxiety. Some teachers and learners focus only on those aspects of the "
+    },
+    
+    {
+        "Text_Blanked": "Exams have clear __ __ __ __ __ __ __ __ __ __ . __ __ __ __ __ __ __ __ __ __  can often __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ . __ __ __ __ __ __ __ __ , some __ __ __ __ __ __ __ __  __ __ __ __ __ __ __ __ __ __ __ __ __ __  simply because of __ __ __ __ . Some teachers and __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __  that__ __ __ __ __ __ __ __ __ __ , thus __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ . ",
+        "Blanks": "9",
+        "Correctans": [
+            "drawbacks",
+            "Test-wise candidates",
+            "perform well on exams without having good underlying knowledge or skills",
+            "On the other hand",
+            "test-takers perform poorly in exams",
+            "anxiety",
+            "learners focus only on those aspects of the curriculum",
+            "are likely to be tested",
+            "narrowing the educational experience for all"
+        ],
+        "Origtext": "This is a test"
+    }
+]
